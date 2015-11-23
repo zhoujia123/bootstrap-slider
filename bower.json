@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-slider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "bootstrap-slider"
+  ],
+  "authors": [
+    "zj"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/zhoujia123/bootstrap-slider.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
