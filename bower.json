@@ -2,7 +2,7 @@
   "name": "bootstrap-slider",
   "version": "1.0.0",
   "description": "",
-  "main": ".js/bootstrap-slider.js",
+  "main": "./js/bootstrap-slider.js",
   "moduleType": [],
   "keywords": [
     "bootstrap-slider"
